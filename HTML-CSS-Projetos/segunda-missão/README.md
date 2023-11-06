@@ -22,10 +22,10 @@ Ao criar esse projeto, coloca-se em prática os seguintes conceitos:
 >Nesta missão nosso foco é posicionar e exibir elementos HTML, por isso não vamos nos preocupar com a estética, ou seja, em criar estilos CSS.
 
 ## Modelo do Projeto:
-![](/assets/requisitos/layout-finalizado.jpeg)
+![](https://github.com/rhayssakramer/projetos-frontend-devmedia/blob/main/HTML-CSS-Projetos/segunda-miss%C3%A3o/assets/requisitos/layout-finalizado.jpeg)
 
 ## Resultado do Projeto:
-![](/assets/resultado.gif)
+![](https://github.com/rhayssakramer/projetos-frontend-devmedia/blob/main/HTML-CSS-Projetos/segunda-miss%C3%A3o/assets/resultado.gif)
 
 ## Tecnologias Utilizadas:
 
