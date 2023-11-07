@@ -19,10 +19,10 @@ Ao criar esse projeto, coloca-se em prática os seguintes conceitos:
 Não haverá navegação entre páginas do projeto, pois o intuito é exibir as informações de um produto, e para isso utilizaremos uma única página. Isso foi feito por uma questão didática para facilitar a construção do primeiro projeto. 
 
 ## Modelo do Projeto:
-![](/assets/requisitos/layout_completo.jpg)
+![](https://github.com/rhayssakramer/projetos-frontend-devmedia/blob/main/HTML-CSS-Projetos/terceira-miss%C3%A3o/assets/requisitos/layout_completo.jpg)
 
 ## Resultado do Projeto:
-![](/assets/resultado.gif)
+![](https://github.com/rhayssakramer/projetos-frontend-devmedia/blob/main/HTML-CSS-Projetos/terceira-miss%C3%A3o/assets/resultado.gif)
 
 ## Tecnologias Utilizadas:
 
