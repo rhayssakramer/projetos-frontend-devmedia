@@ -13,10 +13,10 @@ Ao criar esse projeto, coloca-se em prática os seguintes conceitos:
 - Seletores CSS
 
 ## Modelo do Projeto:
-![]()
+![](https://github.com/rhayssakramer/projetos-frontend-devmedia/blob/main/HTML-CSS-Projetos/quarta-miss%C3%A3o/assets/requisitos/passo3.jpeg)
 
 ## Resultado do Projeto:
-![]()
+![](https://github.com/rhayssakramer/projetos-frontend-devmedia/blob/main/HTML-CSS-Projetos/quarta-miss%C3%A3o/assets/resultado.gif)
 
 ## Tecnologias Utilizadas:
 
